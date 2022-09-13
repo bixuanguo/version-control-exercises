@@ -1,3 +1,7 @@
 hoi
 test test
+<<<<<<< HEAD
 hier ook toevoegen
+=======
+toevoegen regel
+>>>>>>> 6a64dac324bac2fe6523cfed05464e51b903d010
