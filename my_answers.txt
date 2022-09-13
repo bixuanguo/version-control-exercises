@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hoi
 vandaag is het dinsdag
+=======
+hi
+test test
+vandaag is het 13 september
+>>>>>>> 081c7ea9ecfb4d828196689da736b9677d9b41e8
